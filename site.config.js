@@ -1,13 +1,12 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "doyeon",
+    name: "Doyeon",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "android developer",
     bio: "Dart/Flutter & Kotlin",
     email: "dodo03@khu.ac.kr",
     github: "doyeon0307",
-    instagram: "",
   },
   projects: [
     {
@@ -33,9 +32,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    title: "Doyeon-log",
+    description: "welcome to Doyeon-log!",
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
