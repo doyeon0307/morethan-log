@@ -7,6 +7,7 @@ const CONFIG = {
     bio: "Dart/Flutter & Kotlin",
     email: "dodo03@khu.ac.kr",
     github: "doyeon0307",
+    instagram: "",
   },
   projects: [
     {
