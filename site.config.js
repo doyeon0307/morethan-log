@@ -6,6 +6,7 @@ const CONFIG = {
     role: "android developer",
     bio: "Dart/Flutter & Kotlin",
     email: "dodo03@khu.ac.kr",
+    linkedin: "",
     github: "doyeon0307",
     instagram: "",
   },
